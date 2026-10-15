@@ -1,4 +1,4 @@
-# Team Project
+# Team Project (версия В)
 
 Учебный проект по командной разработке в GitHub.
 
